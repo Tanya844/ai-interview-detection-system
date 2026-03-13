@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+opencv-python
+mediapipe
+psutil
+pypdf
+langchain
