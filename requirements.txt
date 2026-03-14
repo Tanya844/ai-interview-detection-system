@@ -5,3 +5,4 @@ mediapipe
 psutil
 pypdf
 langchain
+ultralytics
