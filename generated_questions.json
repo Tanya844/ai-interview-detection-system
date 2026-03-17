@@ -1,0 +1,131 @@
+{
+    "candidate_name": "TANYA PAL",
+    "difficulty": "Medium",
+    "total_questions": 16,
+    "questions": [
+        {
+            "question_number": 1,
+            "question": "How have you applied C in your projects or work?",
+            "category": "skills",
+            "topic": "C",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 2,
+            "question": "What are the key advantages of using C++ over alternatives?",
+            "category": "skills",
+            "topic": "C++",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 3,
+            "question": "Explain a common problem you solved using Css.",
+            "category": "skills",
+            "topic": "Css",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 4,
+            "question": "How have you applied Css3 in your projects or work?",
+            "category": "skills",
+            "topic": "Css3",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 5,
+            "question": "What was the main technical challenge in your MovieRecommendationSystem project?",
+            "category": "projects",
+            "topic": "MovieRecommendationSystem",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 6,
+            "question": "How did you evaluate the performance of your CustomerChurnPrediction solution?",
+            "category": "projects",
+            "topic": "CustomerChurnPrediction",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 7,
+            "question": "What was the main technical challenge in your FileListingandSearchingTool project?",
+            "category": "projects",
+            "topic": "FileListingandSearchingTool",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 8,
+            "question": "What technical challenges did you solve during your PWCLaunchpadTrainee position?",
+            "category": "experience",
+            "topic": "PWCLaunchpadTrainee",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 9,
+            "question": "Which technologies did you use most in your CybersecurityIntern role?",
+            "category": "experience",
+            "topic": "CybersecurityIntern",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 10,
+            "question": "What technical challenges did you solve during your PWCLaunchpadTrainee position?",
+            "category": "experience",
+            "topic": "PWCLaunchpadTrainee",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 11,
+            "question": "How has your AWSCertifiedCloudPractitioner certification helped in practical scenarios?",
+            "category": "certifications",
+            "topic": "AWSCertifiedCloudPractitioner",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 12,
+            "question": "How has your AINCAT2025-Rank335inNationalLevelExamination certification helped in practical scenarios?",
+            "category": "certifications",
+            "topic": "AINCAT2025-Rank335inNationalLevelExamination",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 13,
+            "question": "How has your AWSCertifiedCloudPractitioner certification helped in practical scenarios?",
+            "category": "certifications",
+            "topic": "AWSCertifiedCloudPractitioner",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 14,
+            "question": "How did your B.Tech(CSE-ML&AI) education prepare you for technical roles?",
+            "category": "education",
+            "topic": "B.Tech(CSE-ML&AI)",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 15,
+            "question": "How did your ClassXII(I.S.C) education prepare you for technical roles?",
+            "category": "education",
+            "topic": "ClassXII(I.S.C)",
+            "difficulty": "medium"
+        },
+        {
+            "question_number": 16,
+            "question": "How did your ClassX(I.C.S.E) education prepare you for technical roles?",
+            "category": "education",
+            "topic": "ClassX(I.C.S.E)",
+            "difficulty": "medium"
+        }
+    ],
+    "summary": {
+        "total": 16,
+        "by_category": {
+            "skills": 4,
+            "projects": 3,
+            "experience": 3,
+            "certifications": 3,
+            "education": 3
+        },
+        "ai_generated": false
+    },
+    "generated_at": "2026-03-17T12:13:09"
+}
